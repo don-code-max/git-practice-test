@@ -10,3 +10,5 @@ change_in_length_m = float(input("Enter the change in length (m): "))
 
 stress_pascals = applied_force_newtons / cross_sectional_area_m2
 strain = change_in_length_m / original_length_m
+
+print('we have done it')
